@@ -175,6 +175,8 @@
 		92C338A11A5FF18200DA1532 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0730;
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Alpine Pipeline";
 				TargetAttributes = {
